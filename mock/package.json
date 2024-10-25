@@ -1,0 +1,18 @@
+{
+  "type": "module",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  },
+  "scripts": {
+    "start": "json-server db.json"
+  },
+  "devDependencies": {
+    "@types/json-server": "^0.14.7",
+    "@types/bun": "latest"
+  },
+  "name": "asm3-mock",
+  "module": "index.ts",
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}

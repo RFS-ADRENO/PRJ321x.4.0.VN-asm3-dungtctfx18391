@@ -1,0 +1,40 @@
+POST http://localhost:3000/users
+Content-Type: application/json
+
+{
+    "name": "abc",
+    "email": "abc@asd.com",
+    "phoneNumber": "982722",
+    "password": "abc"
+}
+
+###
+
+GET http://localhost:3000/carts/1?_expand=size&_expand=product
+
+###
+
+DELETE http://localhost:3000/users/2
+
+###
+
+POST http://localhost:3000/carts?_expand=size&_expand=product
+Content-Type: application/json
+
+{
+    "userId": "1",
+    "productId": "1",
+    "sizeId": "5",
+    "quantity": 3
+}
+
+### 
+POST http://localhost:3000/wishlist
+Content-Type: application/json
+
+{
+    "productId": "1"
+}
+
+### 
+DELETE http://localhost:3000/wishlist/1

@@ -1,0 +1,543 @@
+{
+  "products": [
+    {
+      "name": "Adidas #1",
+      "price": 2000000,
+      "image": "https://i.ibb.co/98rmzdL/image-2024-10-14-125516915.png",
+      "brandId": "1",
+      "cateId": "1",
+      "colorId": "1",
+      "id": "1",
+      "date_created": "1729074699504",
+      "versionName": "Đỏ Sẩm"
+    },
+    {
+      "name": "Adidas #2",
+      "price": 1500000,
+      "image": "https://i.ibb.co/98rmzdL/image-2024-10-14-125516915.png",
+      "brandId": "1",
+      "cateId": "1",
+      "colorId": "1",
+      "id": "2",
+      "date_created": "1729071099504",
+      "versionName": "Đỏ Sẩm"
+    },
+    {
+      "name": "Puma #1",
+      "price": 4000000,
+      "image": "https://i.ibb.co/98rmzdL/image-2024-10-14-125516915.png",
+      "brandId": "2",
+      "cateId": "2",
+      "colorId": "1",
+      "id": "3",
+      "date_created": "1729069899504",
+      "versionName": "Đỏ Sẩm"
+    },
+    {
+      "name": "Nike #1",
+      "price": 2500000,
+      "image": "https://i.ibb.co/98rmzdL/image-2024-10-14-125516915.png",
+      "brandId": "3",
+      "cateId": "2",
+      "colorId": "1",
+      "id": "4",
+      "date_created": "1729069299504",
+      "versionName": "Đỏ Sẩm"
+    },
+    {
+      "name": "Nike #2",
+      "price": 1000000,
+      "image": "https://i.ibb.co/98rmzdL/image-2024-10-14-125516915.png",
+      "brandId": "3",
+      "cateId": "3",
+      "colorId": "1",
+      "id": "5",
+      "date_created": "1729068699504",
+      "versionName": "Đỏ Sẩm"
+    },
+    {
+      "name": "Nike #3",
+      "price": 3100000,
+      "image": "https://i.ibb.co/98rmzdL/image-2024-10-14-125516915.png",
+      "brandId": "3",
+      "cateId": "3",
+      "colorId": "1",
+      "id": "6",
+      "date_created": "1728954699504",
+      "versionName": "Đỏ Sẩm"
+    },
+    {
+      "name": "Under Armour #1",
+      "price": 2100000,
+      "image": "https://i.ibb.co/98rmzdL/image-2024-10-14-125516915.png",
+      "brandId": "4",
+      "cateId": "4",
+      "colorId": "1",
+      "id": "7",
+      "date_created": "1728834699504",
+      "versionName": "Đỏ Sẩm"
+    },
+    {
+      "name": "Under Armour #2",
+      "price": 2100000,
+      "image": "https://i.ibb.co/98rmzdL/image-2024-10-14-125516915.png",
+      "brandId": "4",
+      "cateId": "4",
+      "colorId": "1",
+      "id": "8",
+      "date_created": "1728834699504",
+      "versionName": "Đỏ Sẩm"
+    },
+    {
+      "name": "Under Armour #2",
+      "price": 2100000,
+      "image": "https://i.ibb.co/98rmzdL/image-2024-10-14-125516915.png",
+      "brandId": "4",
+      "cateId": "4",
+      "colorId": "1",
+      "id": "9",
+      "date_created": "1728834699504",
+      "versionName": "Đỏ Sẩm"
+    },
+    {
+      "name": "Under Armour #2",
+      "price": 2100000,
+      "image": "https://i.ibb.co/98rmzdL/image-2024-10-14-125516915.png",
+      "brandId": "4",
+      "cateId": "4",
+      "colorId": "2",
+      "id": "10",
+      "date_created": "1728834699504",
+      "versionName": "Đỏ Sẩm"
+    },
+    {
+      "name": "Under Armour #2",
+      "price": 2100000,
+      "image": "https://i.ibb.co/98rmzdL/image-2024-10-14-125516915.png",
+      "brandId": "4",
+      "cateId": "4",
+      "colorId": "2",
+      "id": "11",
+      "date_created": "1728834699504",
+      "versionName": "Đỏ Sẩm"
+    },
+    {
+      "name": "Under Armour #2",
+      "price": 2100000,
+      "image": "https://i.ibb.co/98rmzdL/image-2024-10-14-125516915.png",
+      "brandId": "4",
+      "cateId": "4",
+      "colorId": "2",
+      "id": "12",
+      "date_created": "1728834699504",
+      "versionName": "Đỏ Sẩm"
+    },
+    {
+      "name": "Under Armour #2",
+      "price": 2100000,
+      "image": "https://i.ibb.co/98rmzdL/image-2024-10-14-125516915.png",
+      "brandId": "4",
+      "cateId": "4",
+      "colorId": "2",
+      "id": "13",
+      "date_created": "1728834699504",
+      "versionName": "Đỏ Sẩm"
+    },
+    {
+      "name": "Under Armour #2",
+      "price": 2100000,
+      "image": "https://i.ibb.co/98rmzdL/image-2024-10-14-125516915.png",
+      "brandId": "4",
+      "cateId": "4",
+      "colorId": "2",
+      "id": "14",
+      "date_created": "1728834699504",
+      "versionName": "Đỏ Sẩm"
+    },
+    {
+      "name": "Under Armour #2",
+      "price": 2100000,
+      "image": "https://i.ibb.co/98rmzdL/image-2024-10-14-125516915.png",
+      "brandId": "4",
+      "cateId": "4",
+      "colorId": "2",
+      "id": "15",
+      "date_created": "1728834699504",
+      "versionName": "Đỏ Sẩm"
+    },
+    {
+      "name": "Under Armour #2",
+      "price": 2100000,
+      "image": "https://i.ibb.co/98rmzdL/image-2024-10-14-125516915.png",
+      "brandId": "4",
+      "cateId": "4",
+      "colorId": "2",
+      "id": "16",
+      "date_created": "1728834699504",
+      "versionName": "Đỏ Sẩm"
+    },
+    {
+      "name": "Under Armour #2",
+      "price": 2100000,
+      "image": "https://i.ibb.co/98rmzdL/image-2024-10-14-125516915.png",
+      "brandId": "4",
+      "cateId": "4",
+      "colorId": "3",
+      "id": "17",
+      "date_created": "1728834699504",
+      "versionName": "Đỏ Sẩm"
+    },
+    {
+      "name": "Under Armour #2",
+      "price": 2100000,
+      "image": "https://i.ibb.co/98rmzdL/image-2024-10-14-125516915.png",
+      "brandId": "4",
+      "cateId": "4",
+      "colorId": "3",
+      "id": "18",
+      "date_created": "1728834699504",
+      "versionName": "Đỏ Sẩm"
+    },
+    {
+      "name": "Under Armour #2",
+      "price": 2100000,
+      "image": "https://i.ibb.co/98rmzdL/image-2024-10-14-125516915.png",
+      "brandId": "4",
+      "cateId": "4",
+      "colorId": "3",
+      "id": "19",
+      "date_created": "1728834699504",
+      "versionName": "Đỏ Sẩm"
+    },
+    {
+      "name": "Under Armour #2",
+      "price": 2100000,
+      "image": "https://i.ibb.co/98rmzdL/image-2024-10-14-125516915.png",
+      "brandId": "4",
+      "cateId": "4",
+      "colorId": "3",
+      "id": "20",
+      "date_created": "1728834699504",
+      "versionName": "Đỏ Sẩm"
+    },
+    {
+      "name": "Under Armour #2",
+      "price": 2100000,
+      "image": "https://i.ibb.co/98rmzdL/image-2024-10-14-125516915.png",
+      "brandId": "4",
+      "cateId": "4",
+      "colorId": "3",
+      "id": "21",
+      "date_created": "1728834699504",
+      "versionName": "Đỏ Sẩm"
+    },
+    {
+      "name": "Under Armour #2",
+      "price": 2100000,
+      "image": "https://i.ibb.co/98rmzdL/image-2024-10-14-125516915.png",
+      "brandId": "4",
+      "cateId": "4",
+      "colorId": "3",
+      "id": "22",
+      "date_created": "1728834699504",
+      "versionName": "Đỏ Sẩm"
+    },
+    {
+      "name": "Under Armour #2",
+      "price": 2100000,
+      "image": "https://i.ibb.co/98rmzdL/image-2024-10-14-125516915.png",
+      "brandId": "4",
+      "cateId": "4",
+      "colorId": "3",
+      "id": "23",
+      "date_created": "1728834699504",
+      "versionName": "Đỏ Sẩm"
+    },
+    {
+      "name": "Under Armour #2",
+      "price": 2100000,
+      "image": "https://i.ibb.co/98rmzdL/image-2024-10-14-125516915.png",
+      "brandId": "4",
+      "cateId": "4",
+      "colorId": "4",
+      "id": "24",
+      "date_created": "1728834699504",
+      "versionName": "Đỏ Sẩm"
+    },
+    {
+      "name": "Under Armour #2",
+      "price": 2100000,
+      "image": "https://i.ibb.co/98rmzdL/image-2024-10-14-125516915.png",
+      "brandId": "4",
+      "cateId": "4",
+      "colorId": "4",
+      "id": "25",
+      "date_created": "1728834699504",
+      "versionName": "Đỏ Sẩm"
+    },
+    {
+      "name": "Under Armour #2",
+      "price": 2100000,
+      "image": "https://i.ibb.co/98rmzdL/image-2024-10-14-125516915.png",
+      "brandId": "4",
+      "cateId": "4",
+      "colorId": "1",
+      "id": "26",
+      "date_created": "1728834699504",
+      "versionName": "Đỏ Sẩm"
+    },
+    {
+      "name": "Under Armour #2",
+      "price": 2100000,
+      "image": "https://i.ibb.co/98rmzdL/image-2024-10-14-125516915.png",
+      "brandId": "4",
+      "cateId": "4",
+      "colorId": "1",
+      "id": "27",
+      "date_created": "1728834699504",
+      "versionName": "Đỏ Sẩm"
+    },
+    {
+      "name": "Under Armour #2",
+      "price": 2100000,
+      "image": "https://i.ibb.co/98rmzdL/image-2024-10-14-125516915.png",
+      "brandId": "4",
+      "cateId": "4",
+      "colorId": "1",
+      "id": "28",
+      "date_created": "1728834699504",
+      "versionName": "Đỏ Sẩm"
+    },
+    {
+      "name": "Under Armour #2",
+      "price": 2100000,
+      "image": "https://i.ibb.co/98rmzdL/image-2024-10-14-125516915.png",
+      "brandId": "4",
+      "cateId": "4",
+      "colorId": "1",
+      "id": "29",
+      "date_created": "1728834699504",
+      "versionName": "Đỏ Sẩm"
+    },
+    {
+      "name": "Under Armour #2",
+      "price": 2100000,
+      "image": "https://i.ibb.co/98rmzdL/image-2024-10-14-125516915.png",
+      "brandId": "4",
+      "cateId": "4",
+      "colorId": "2",
+      "id": "30",
+      "date_created": "1728834699504",
+      "versionName": "Đỏ Sẩm"
+    },
+    {
+      "name": "Under Armour #2",
+      "price": 2100000,
+      "image": "https://i.ibb.co/98rmzdL/image-2024-10-14-125516915.png",
+      "brandId": "4",
+      "cateId": "4",
+      "colorId": "2",
+      "id": "31",
+      "date_created": "1728834699504",
+      "versionName": "Đỏ Sẩm"
+    },
+    {
+      "name": "Under Armour #2",
+      "price": 2100000,
+      "image": "https://i.ibb.co/98rmzdL/image-2024-10-14-125516915.png",
+      "brandId": "4",
+      "cateId": "4",
+      "colorId": "2",
+      "id": "32",
+      "date_created": "1728834699504",
+      "versionName": "Đỏ Sẩm"
+    },
+    {
+      "name": "Under Armour #2",
+      "price": 2100000,
+      "image": "https://i.ibb.co/98rmzdL/image-2024-10-14-125516915.png",
+      "brandId": "4",
+      "cateId": "4",
+      "colorId": "2",
+      "id": "33",
+      "date_created": "1728834699504",
+      "versionName": "Đỏ Sẩm"
+    },
+    {
+      "name": "Under Armour #2",
+      "price": 2100000,
+      "image": "https://i.ibb.co/98rmzdL/image-2024-10-14-125516915.png",
+      "brandId": "4",
+      "cateId": "4",
+      "colorId": "2",
+      "id": "34",
+      "date_created": "1728834699504",
+      "versionName": "Đỏ Sẩm"
+    }
+  ],
+  "brands": [
+    {
+      "name": "Adidas",
+      "id": "1"
+    },
+    {
+      "name": "Puma",
+      "id": "2"
+    },
+    {
+      "name": "Nike",
+      "id": "3"
+    },
+    {
+      "name": "Under Armour",
+      "id": "4"
+    },
+    {
+      "name": "Vans",
+      "id": "5"
+    }
+  ],
+  "cates": [
+    {
+      "name": "Cổ thấp / Low-Top",
+      "id": "1"
+    },
+    {
+      "name": "Cổ trung / Mid-Top",
+      "id": "2"
+    },
+    {
+      "name": "Cổ cao / High-Top",
+      "id": "3"
+    },
+    {
+      "name": "Slide",
+      "id": "4"
+    },
+    {
+      "name": "Phụ Kiện",
+      "id": "5"
+    }
+  ],
+  "colors": [
+    {
+      "id": "1",
+      "name": "Red",
+      "code": "#c71414"
+    },
+    {
+      "id": "2",
+      "name": "Blue",
+      "code": "#28a5ed"
+    },
+    {
+      "id": "3",
+      "name": "Black",
+      "code": "#000000"
+    },
+    {
+      "id": "4",
+      "name": "Lime",
+      "code": "#bfff00"
+    }
+  ],
+  "sizes": [
+    {
+      "id": "1",
+      "quantity": 0,
+      "size": 38,
+      "productId": "1"
+    },
+    {
+      "id": "2",
+      "quantity": 30,
+      "size": 40,
+      "productId": "1"
+    },
+    {
+      "id": "3",
+      "quantity": 26,
+      "size": 41,
+      "productId": "1"
+    },
+    {
+      "id": "4",
+      "quantity": 20,
+      "size": 42,
+      "productId": "1"
+    },
+    {
+      "id": "5",
+      "quantity": 10,
+      "size": 44,
+      "productId": "1"
+    },
+    {
+      "id": "6",
+      "quantity": 22,
+      "size": 40,
+      "productId": "2"
+    }
+  ],
+  "carts": [
+    {
+      "userId": "1",
+      "productId": "1",
+      "sizeId": "5",
+      "quantity": 4,
+      "id": "1"
+    },
+    {
+      "userId": "1",
+      "productId": "2",
+      "sizeId": "6",
+      "quantity": 3,
+      "id": "2"
+    }
+  ],
+  "users": [
+    {
+      "name": "Dũng",
+      "email": "funix@funix.com",
+      "phoneNumber": "0963648822",
+      "password": "12345678",
+      "id": 1
+    },
+    {
+      "name": "abc",
+      "email": "abc@asd.com",
+      "phoneNumber": "982722",
+      "password": "abc",
+      "id": 2
+    }
+  ],
+  "orders": [
+    {
+      "id": "1",
+      "recipient": "Dũng",
+      "phoneNumber": "0963648822",
+      "address": "350",
+      "paymentMethod": 0,
+      "paymentStatus": 0,
+      "shippingStatus": 0,
+      "date_created": "10/25/2024, 5:25:25 PM"
+    }
+  ],
+  "orderProducts": [
+    {
+      "id": "1",
+      "name": "Adidas #1",
+      "price": 1000000,
+      "quantity": 2,
+      "sizeId": "5",
+      "size": 44,
+      "orderId": "1"
+    }
+  ],
+  "wishlist": [
+    {
+      "productId": "1",
+      "id": 1
+    }
+  ]
+}
