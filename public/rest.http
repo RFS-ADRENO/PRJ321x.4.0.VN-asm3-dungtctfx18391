@@ -1,0 +1,18 @@
+### UPDATE IMAGE
+PATCH https://1f0f-171-251-218-29.ngrok-free.app/api/v1/products/650f1a2c9a68a234567890ab
+Content-Type: multipart/form-data; boundary=boundary
+
+--boundary
+Content-Disposition: form-data; name="imageUrls"
+
+https://example.com/images/headphones1.jpg
+--boundary
+Content-Disposition: form-data; name="imageUrls"
+
+https://example.com/images/headphones2.jpg
+--boundary
+Content-Disposition: form-data; name="images"; filename="7mb.jpg"
+Content-Type: image/jpeg
+
+< ./vite.svg
+--boundary--
